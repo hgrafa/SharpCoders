@@ -1,6 +1,6 @@
-# Turma ***Sharp* Coders** 🧲🚀
+## **Sharp Coders** 🧲🚀
 
-* Turma de C# na [**Ímã learning place**](https://imalearningplace.com)
+* Bootcamp FullStack na [**Ímã learning place**](https://imalearningplace.com)
 * Objetivo: **`C#`** e aplicações reais na linguagem
 * Professor e Orientador: [Hugo Rafael](https://github.com/hgrafa)
 
