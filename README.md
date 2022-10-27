@@ -1,4 +1,4 @@
-## **Sharp Coders** 🧲🚀
+# **Sharp Coders** 🧲🚀
 
 * Bootcamp FullStack na [**Ímã learning place**](https://imalearningplace.com)
 * Objetivo: **`C#`** e aplicações reais na linguagem
