@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\bin\Debug\net6.0\ModelosDeSaidas.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\bin\Debug\net6.0\ModelosDeSaidas.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\bin\Debug\net6.0\ModelosDeSaidas.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\bin\Debug\net6.0\ModelosDeSaidas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\bin\Debug\net6.0\ModelosDeSaidas.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\refint\ModelosDeSaidas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ModelosDeSaidas.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ModelosDeSaidas\ModelosDeSaidas\obj\Debug\net6.0\ref\ModelosDeSaidas.dll
