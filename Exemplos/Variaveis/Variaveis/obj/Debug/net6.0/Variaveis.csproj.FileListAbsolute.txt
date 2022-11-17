@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\refint\Variaveis.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Variaveis\Variaveis\obj\Debug\net6.0\ref\Variaveis.dll
