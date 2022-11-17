@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\bin\Debug\net6.0\Entradas.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\bin\Debug\net6.0\Entradas.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\bin\Debug\net6.0\Entradas.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\bin\Debug\net6.0\Entradas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\bin\Debug\net6.0\Entradas.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\refint\Entradas.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\Entradas.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Entradas\Entradas\obj\Debug\net6.0\ref\Entradas.dll
