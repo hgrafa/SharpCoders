@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\bin\Debug\net6.0\HelloWorld_1000.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\bin\Debug\net6.0\HelloWorld_1000.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\bin\Debug\net6.0\HelloWorld_1000.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\bin\Debug\net6.0\HelloWorld_1000.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\bin\Debug\net6.0\HelloWorld_1000.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\refint\HelloWorld_1000.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\HelloWorld_1000.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\HelloWorld_1000\HelloWorld_1000\obj\Debug\net6.0\ref\HelloWorld_1000.dll
