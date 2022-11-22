@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\bin\Debug\net6.0\Selecao.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\bin\Debug\net6.0\Selecao.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\bin\Debug\net6.0\Selecao.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\bin\Debug\net6.0\Selecao.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\bin\Debug\net6.0\Selecao.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\refint\Selecao.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\Selecao.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Selecao\Selecao\obj\Debug\net6.0\ref\Selecao.dll
