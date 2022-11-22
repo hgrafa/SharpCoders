@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\refint\OMaior_1013.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\ref\OMaior_1013.dll
