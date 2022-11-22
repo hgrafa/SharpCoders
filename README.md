@@ -1,7 +1,7 @@
 # **Sharp Coders** 🧲🚀
 
 * Bootcamp FullStack na [**Ímã learning place**](https://imalearningplace.com)
-* Objetivo: **`C#`** e aplicações reais na linguagem
+* Objetivo: **`C#`** focado em Lógica de Programação e Algoritmos
 * Professor e Orientador: [Hugo Rafael](https://github.com/hgrafa)
 
 ## 🧭 Sumário
