@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\bin\Debug\net6.0\TiposDeTriangulos_1045.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\bin\Debug\net6.0\TiposDeTriangulos_1045.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\bin\Debug\net6.0\TiposDeTriangulos_1045.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\bin\Debug\net6.0\TiposDeTriangulos_1045.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\bin\Debug\net6.0\TiposDeTriangulos_1045.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\refint\TiposDeTriangulos_1045.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\TiposDeTriangulos_1045.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\TiposDeTriangulos_1045\TiposDeTriangulos_1045\obj\Debug\net6.0\ref\TiposDeTriangulos_1045.dll

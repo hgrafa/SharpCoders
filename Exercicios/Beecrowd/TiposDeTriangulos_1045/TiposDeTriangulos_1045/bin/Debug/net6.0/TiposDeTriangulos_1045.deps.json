@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TiposDeTriangulos_1045/1.0.0": {
+        "runtime": {
+          "TiposDeTriangulos_1045.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposDeTriangulos_1045/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
