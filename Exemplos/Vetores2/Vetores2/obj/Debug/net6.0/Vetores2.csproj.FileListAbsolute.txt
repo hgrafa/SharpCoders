@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\refint\Vetores2.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Vetores2\Vetores2\obj\Debug\net6.0\ref\Vetores2.dll
