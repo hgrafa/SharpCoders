@@ -10,7 +10,6 @@
             // [4.0 , 7.0): recuperação
             // [0.0 , 4.0): reprovado
 
-
             if(nota == 10.0) {
                 Console.WriteLine("excelente!");
             } else if ( nota >= 7.0 ) {
