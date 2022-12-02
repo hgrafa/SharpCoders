@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ForEach\ForEach\obj\Debug\net6.0\ref\ForEach.dll
