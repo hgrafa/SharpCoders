@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\refint\MultiplosDe13.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Beecrowd\MultiplosDe13\MultiplosDe13\obj\Debug\net6.0\ref\MultiplosDe13.dll
