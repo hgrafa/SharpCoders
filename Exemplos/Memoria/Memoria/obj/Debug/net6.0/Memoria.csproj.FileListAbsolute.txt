@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\bin\Debug\net6.0\Memoria.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\bin\Debug\net6.0\Memoria.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\bin\Debug\net6.0\Memoria.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\bin\Debug\net6.0\Memoria.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\bin\Debug\net6.0\Memoria.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\refint\Memoria.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\Memoria.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Memoria\Memoria\obj\Debug\net6.0\ref\Memoria.dll
