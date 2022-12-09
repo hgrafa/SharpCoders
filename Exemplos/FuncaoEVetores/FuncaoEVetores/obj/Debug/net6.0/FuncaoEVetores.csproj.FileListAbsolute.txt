@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\bin\Debug\net6.0\FuncaoEVetores.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\bin\Debug\net6.0\FuncaoEVetores.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\bin\Debug\net6.0\FuncaoEVetores.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\bin\Debug\net6.0\FuncaoEVetores.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\bin\Debug\net6.0\FuncaoEVetores.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\refint\FuncaoEVetores.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\FuncaoEVetores.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\FuncaoEVetores\FuncaoEVetores\obj\Debug\net6.0\ref\FuncaoEVetores.dll
