@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
