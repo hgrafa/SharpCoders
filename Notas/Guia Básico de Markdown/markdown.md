@@ -1,6 +1,6 @@
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
 
-O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como </b>, </i> e </a href>, etc. Já os textos sem formatação entram como parágrafo simples </p>
+O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como `<b>`, `<i>` e `<a href>`, etc. Já os textos sem formatação entram como parágrafo simples `</p>`
 
 Lista de comandos em Markdown
 Veja abaixo uma lista dos comandos em markdown e alguns exemplos de seu uso:
@@ -76,15 +76,19 @@ Este é um blockquote. O sinal usado abre e fecha este código no HTML. Para adi
 Código (Code Highlight)
 Há dois modos de adicionar trechos de código ao Markdown:
 
-Código em linha (inline): adicione um acento grave ˋ no início e no final do código.
-Múltiplas linhas de código: envolva as linhas de código com três acentos graves ˋˋˋ ou três tils ~~~.
- Esta é uma linha que contém um ˋcódigoˋ.
+**Código em linha (inline):** adicione um acento grave `ˋ` no início e no final do código.
+**Múltiplas linhas de código:** envolva as linhas de código com três acentos graves ˋˋˋ ou três tils ~~~.
+ 
+`
+Esta é uma linha que contém um ˋcódigoˋ.
 
+É Esta é uma linha de código
 ˋˋˋ
-Esta é uma linha de código
- ˋˋˋ
-Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o ˋˋˋ ou ~~~, por exemplo ~~~javascript ou ~~~ruby. Veja nos exemplos abaixo:
+ˋ
 
+Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o `ˋˋˋ` ou `~~~`, por exemplo `~~~javascript ou ~~~ruby`. Veja nos exemplos abaixo:
+
+```
 ~~~javascript
 Esta é uma linha de código em Javascript.
 ~~~
@@ -96,11 +100,34 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+```
+~~~javascript
 Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+ 
 Aqui está a lista de linguagens suportadas pelo Pygments, usada em nosso Learning Center.
 
-Tabela
+## Tabela
+ 
 Escolha os títulos das colunas e use | para delimitar as colunas. Depois, utilize hífen - na segunda linha para indicar que acima estão os títulos das colunas, usando novamente o | para delimitar colunas. Veja um exemplo abaixo:
+
+ ```
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+```
+Como aparece no **Learning Center:**
 
 Exemplo   | Valor do exemplo
 --------- | ------
@@ -108,13 +135,8 @@ Exemplo 1 | R$ 10
 Exemplo 2 | R$ 8
 Exemplo 3 | R$ 7
 Exemplo 4 | R$ 8
-Como aparece no Learning Center:
+ 
 
-Exemplo	Valor do exemplo
-Exemplo 1	R$ 10
-Exemplo 2	R$ 8
-Exemplo 3	R$ 7
-Exemplo 4	R$ 8
 Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
 
 Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
