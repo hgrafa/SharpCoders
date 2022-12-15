@@ -9,12 +9,13 @@ Ctrl + l - faz a limpeza do terminal
 
 * Principais comandos do Git falados na aula - 14/12/2022:
 ```
-git init
-git add .
-git status
-git commit -m "comentário"
-git push -u origin main
-git log --oneline  - para ver os commits feitos até o momento de forma resumida em somente uma linha.
+git init - para iniciar um repositorio.
+git add . - para preparar os arquivos modificados ou criados para serem comitados.
+git status - verificar o status dos aquivos.
+git commit -m "comentário" - fazer commit de modificações e novos arquivos criados.
+git push -u origin main - enviar para o github as atualizações e commits feitos localmente
+git log --oneline - para ver os commits feitos até o momento de forma resumida em somente uma linha.
+git branch -M main - Comando para transformar sua branch master em main
 ```[ver mais comandos do git:](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 [Leiam pra saber as capacidades do Git e GitHub:](https://github.com/DanielHe4rt/git4noobs)
 
