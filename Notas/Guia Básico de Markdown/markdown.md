@@ -107,17 +107,16 @@ Há dois modos de adicionar trechos de código ao Markdown:
 **Código em linha (inline):** adicione um acento grave ` no início e no final do código.
 **Múltiplas linhas de código:** envolva as linhas de código com três acentos graves ˋ`` ou três tils `~~~`.
 
-```
+~~~
 Esta é uma linha que contém um ˋcódigoˋ.
 
 ˋˋ`
 Esta é uma linha de código
-
 ˋˋ`
+~~~
 
-ˋˋˋ
 
->Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o `"```"` ou `~~~`, por exemplo `~~~javascript ou ~~~ruby`. Veja nos exemplos abaixo:
+>Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após os três acentos graves ou `~~~`, por exemplo `~~~javascript ou ~~~ruby`. Veja nos exemplos abaixo:
 
 ```
 ~~~javascript
@@ -131,8 +130,7 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
-
-ˋˋ`
+```
 
 ~~~javascript
 Esta é uma linha de código em Javascript.
@@ -144,6 +142,7 @@ Esta é uma linha de código em PHP.
 
 ~~~html
 Esta é uma linha de código em HTML.
+~~~
 
 >Aqui está a lista de linguagens suportadas pelo Pygments, usada em nosso Learning Center.
 
