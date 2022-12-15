@@ -80,6 +80,7 @@ O código para inserir uma imagem no conteúdo é semelhante ao código de inser
 ```![Alt ou título da imagem](URL da imagem)```
 
 Esta é uma linha com uma imagem personalizada![Eddie Feliz.](https://pipz.com/static/images/blog/eddie.png)
+
 Imagens grandes podem estar em linhas individuais, para serem exibidas em maior tamanho.
 
 ## Citação (Quote)
@@ -103,8 +104,8 @@ Como aparece no HTML:
 
 Há dois modos de adicionar trechos de código ao Markdown:
 
-**Código em linha (inline):** adicione um acento grave `ˋ``` no início e no final do código.
-**Múltiplas linhas de código:** envolva as linhas de código com três acentos graves ˋ``ˋˋ ou três tils `~~~`.
+**Código em linha (inline):** adicione um acento grave ``` no início e no final do código.
+**Múltiplas linhas de código:** envolva as linhas de código com três acentos graves ˋ`` ou três tils `~~~`.
 
 ```
 Esta é uma linha que contém um ˋcódigoˋ.
@@ -114,7 +115,7 @@ Esta é uma linha de código
 
 ˋˋˋ`
 
-Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o ``ˋˋˋ ou `~~~`, por exemplo `~~~javascript ou ~~~ruby`. Veja nos exemplos abaixo:
+Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o ``ˋ ou `~~~`, por exemplo `~~~javascript ou ~~~ruby`. Veja nos exemplos abaixo:
 
 ```
 ~~~javascript
