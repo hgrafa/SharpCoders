@@ -29,4 +29,4 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 ## 🗝️ Licensa e permissão de uso
 
-Confira a [**licensa de uso**](/LICENSE/) deste repositório e nos nossos materiais.
+Confira a [**licensa de uso**](LICENSE) deste repositório e nos nossos materiais.
