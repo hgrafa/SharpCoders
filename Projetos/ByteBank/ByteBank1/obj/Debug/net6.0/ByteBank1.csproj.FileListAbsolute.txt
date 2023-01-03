@@ -1,0 +1,30 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
