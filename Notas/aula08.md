@@ -46,6 +46,24 @@ struct Aluno {
 }
 ```
 
+# Uma motivação para POO
+
+**POO:** Programação Orientada a Objetos
+
+**Objetivo:** trocar dois alunos do sistema, equivalentes as posições 0 e 5 do vetor.
+
+**Problema:** para trocar os campos destes alunos precisaremos trocar campo a campo dentre o vetores, ou seja, a criação de variáveis auxiliares é exaustiva e pouco prática.
+
+**Solução:** Através da Orientação a objetos poderemos criar variáveis do tipo aluno, sendo assim não é necessário mais trocar estas variáveis campo a campo.
+
+Trocando dados de João e Pedro:
+```cs
+Aluno joao = ... , pedro = ...;
+Aluno aux = joao;
+joao = pedro;
+pedro = aux;
+```
+
 ## Introduzindo POO
 
 **Classe:** É o molde que vai dar forma ao objeto(fruto deste molde)
