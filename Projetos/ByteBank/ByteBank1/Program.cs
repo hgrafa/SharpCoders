@@ -47,30 +47,38 @@
             string cpfParaDeletar = Console.ReadLine();
 
             Console.WriteLine("Digite a SENHA para deletar a Conta: ");
-            string senhaParaDeletar = Console.ReadLine();
+            string senhaParaPesquisar = Console.ReadLine();
 
             // Aqui no FindIndex usamos um predicado falando assim: d tal que d e igual ao cpf para deletar? se sim retorne true se não retorne false(-1)
-            int indexParaDeletar = senhas.FindIndex(d => d == senhaParaDeletar);
+            int indexParaSenha = senhas.FindIndex(d => d == senhaParaPesquisar);
 
-
-            // Ideia implemtação de senha:
-
-            if (indexParaDeletar == -1)
+            if(senhas[indexParaSenha] == senhaParaPesquisar)
+            {
+                int indexParaDeletar = cpfs.FindIndex(d => d == cpfParaDeletar);
+                
+                if (indexParaDeletar == -1)
+                {
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Não foi possivel deletar a conta!");
+                    Console.WriteLine("MOTIVO: Conta não encontrada ou senha errada");
+                }
+                else
+                {
+                    // Deletando o CPF e as informações
+                    cpfs.Remove(cpfParaDeletar);
+                    senhas.RemoveAt(indexParaDeletar);
+                    titulares.RemoveAt(indexParaDeletar);
+                    saldos.RemoveAt(indexParaDeletar);
+    
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Conta deletada com sucesso!");
+                }
+            }
+            else
             {
                 Console.WriteLine("-----------------");
                 Console.WriteLine("Não foi possivel deletar a conta!");
                 Console.WriteLine("MOTIVO: Conta não encontrada ou senha errada");
-            }
-            else
-            {
-                // Deletando o CPF e as informações
-                cpfs.Remove(cpfParaDeletar);
-                senhas.Remove(senhaParaDeletar);
-                titulares.RemoveAt(indexParaDeletar);
-                saldos.RemoveAt(indexParaDeletar);
-
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Conta deletada com sucesso!");
             }
         }
 
@@ -86,8 +94,8 @@
         {
             Console.WriteLine("Digite o CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
+            
             Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
-
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaApresentar = senhas.FindIndex(d => d == senhaParaPesquisar);
@@ -117,22 +125,29 @@
             Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
             string senhaParaPesquisar = Console.ReadLine();
 
-            int indexParaDepositar = senhas.FindIndex(d => d == senhaParaPesquisar);
-            
-            double valorDeposito;
+            int indexParaPesquisarSenha = senhas.FindIndex(d => d == senhaParaPesquisar);
 
-            if (indexParaDepositar == -1)
+            if(senhas[indexParaPesquisarSenha] == senhaParaPesquisar) 
+            {
+                int indexParaDepositar = cpfs.FindIndex(d => d == cpfParaPesquisar);
+                
+                if (indexParaDepositar == -1)
+                {
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Não foi possivel realizar o deposito!");
+                    Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
+                } 
+                else 
+                {
+                    Console.WriteLine("Digite o valor do deposito: ");
+                    double valorDeposito = saldos[indexParaDepositar] += double.Parse(Console.ReadLine());
+                }
+            }
+            else
             {
                 Console.WriteLine("-----------------");
                 Console.WriteLine("Não foi possivel realizar o deposito!");
                 Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
-            } 
-            else 
-            {
-                Console.WriteLine("Digite o valor do deposito: ");
-                valorDeposito = double.Parse(Console.ReadLine());
-                
-                saldos.Add(valorDeposito); // em teste
             }
         }
         
