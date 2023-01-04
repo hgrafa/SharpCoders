@@ -20,11 +20,15 @@
         {
             Console.WriteLine("Digite o CPF: ");
             cpfs.Add(Console.ReadLine());
+
             Console.WriteLine("Digite o nome: ");
             titulares.Add(Console.ReadLine());
+
             Console.WriteLine("Insira sua senha: ");
             senhas.Add(Console.ReadLine());
+
             saldos.Add(0);
+
             Console.WriteLine("Usuário cadastrado!");
         }
 
@@ -32,6 +36,7 @@
         {
             Console.WriteLine("Digite o CPF: ");
             string cpfParaDeletar = Console.ReadLine();
+
             Console.WriteLine("Digite a SENHA para deletar a Conta: ");
             string senhaParaDeletar = Console.ReadLine();
 
@@ -73,6 +78,7 @@
             Console.WriteLine("Digite o CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
             Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaApresentar = senhas.FindIndex(d => d == senhaParaPesquisar);
