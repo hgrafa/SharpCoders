@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\bin\Debug\net6.0\ConstrutoresPrivacidades.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\bin\Debug\net6.0\ConstrutoresPrivacidades.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\bin\Debug\net6.0\ConstrutoresPrivacidades.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\bin\Debug\net6.0\ConstrutoresPrivacidades.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\bin\Debug\net6.0\ConstrutoresPrivacidades.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\refint\ConstrutoresPrivacidades.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ConstrutoresPrivacidades.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ConstrutoresPrivacidades\ConstrutoresPrivacidades\obj\Debug\net6.0\ref\ConstrutoresPrivacidades.dll
