@@ -8,11 +8,11 @@ namespace ConstrutoresPrivacidades {
 
             Pessoa marcos = new Pessoa("Marcos Castro", 1.90, 18);
 
-            marcos.Telefone = "1111111111";
+            marcos.Altura = -2;
 
             Pessoa julia = new Pessoa("Julia Silva", 1.70, 20, "99999999");
 
-            Console.WriteLine(marcos.PegarIdade());
+            Console.WriteLine(marcos.Altura);
 
         }
 
