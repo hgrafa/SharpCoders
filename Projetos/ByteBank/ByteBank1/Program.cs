@@ -15,6 +15,15 @@
             Console.WriteLine("0 - Para sair do programa");
             Console.Write("Digite a opção desejada: ");
         }
+        
+        static void ShowMenuManipularConta()
+        {
+            Console.WriteLine("1 - Depositar");
+            Console.WriteLine("2 - Saquar");
+            Console.WriteLine("3 - Transferir");
+            Console.WriteLine("0 - Voltar para Menu Principal");
+            Console.Write("Digite a opção desejada: ");
+        }
 
         static void RegistrarNovoUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
@@ -87,7 +96,7 @@
             {
                 Console.WriteLine("-----------------");
                 Console.WriteLine("Não foi possivel apresentar conta!");
-                Console.WriteLine("MOTIVO: Conta não encontrada no Sistema.");
+                Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
             }
 
             ApresentaConta(indexParaApresentar, cpfs, titulares, saldos);
@@ -99,6 +108,63 @@
 
             // saldos.Sum(); ou .Aggregate(0.0, (x, y) => x + y);
         }
+        
+        static void DepositoConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
+        {
+            Console.WriteLine("Digite o CPF: ");
+            string cpfParaPesquisar = Console.ReadLine();
+            
+            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            string senhaParaPesquisar = Console.ReadLine();
+
+            int indexParaDepositar = senhas.FindIndex(d => d == senhaParaPesquisar);
+            
+            double valorDeposito;
+
+            if (indexParaDepositar == -1)
+            {
+                Console.WriteLine("-----------------");
+                Console.WriteLine("Não foi possivel realizar o deposito!");
+                Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
+            } 
+            else 
+            {
+                Console.WriteLine("Digite o valor do deposito: ");
+                valorDeposito = double.Parse(Console.ReadLine());
+                
+                saldos.Add(valorDeposito); // em teste
+            }
+        }
+        
+        static void ManipularConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
+        {
+            int option;
+            do
+                {
+                    ShowMenuManipularConta();
+                    option = int.Parse(Console.ReadLine());
+                    
+                    switch (option)
+                        {
+                            case 0:
+                                Console.WriteLine("Voltando ao Menu Principal!");
+                                break;
+                            case 1:
+                                DepositoConta(cpfs, titulares, senhas, saldos);
+                                break;
+                            case 2:
+                                Console.WriteLine("CASO 2");
+                                break;
+                            case 3:
+                                Console.WriteLine("CASO 3");
+                                break;
+                        }
+        
+                    Console.WriteLine("-----------------");
+        
+            } while (option != 0);
+        }
+    
         static void ApresentaConta(int i, List<string> cpfs, List<string> titulares, List<double> saldos)
         {
             Console.WriteLine("-----------------");
@@ -144,6 +210,9 @@
                         break;
                     case 5:
                         ApresentarSoma(saldos);
+                        break;
+                    case 6:
+                        ManipularConta(cpfs, titulares, senhas, saldos);
                         break;
                 }
 
