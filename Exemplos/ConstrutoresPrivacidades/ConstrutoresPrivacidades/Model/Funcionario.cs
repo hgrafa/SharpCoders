@@ -1,21 +1,13 @@
 ﻿namespace ConstrutoresPrivacidades.Model {
     public class Funcionario {
 
-        private double _salarioBruto;
-        private double _imposto;
+        // auto - properties
+        public double SalarioBruto { get; private set; }
+        public double Imposto { get; set; }
 
-        public double SalarioBruto {
-            get { return _salarioBruto; }
-            set { _salarioBruto = value; }
-        }
-
-        public double Imposto {
-            get { return _imposto; }
-            set { _imposto = value; }
-        }
-
+        // property
         public double SalarioLiquido {
-            get { return _salarioBruto - _imposto; }
+            get { return SalarioBruto - Imposto; }
         }
 
     }
