@@ -3,27 +3,36 @@
 
     public class Program
     {
-        // Ideia de implementação de Login
-
-        /*static void ShowMenuLogin()
-        {
-            Console.WriteLine("1 - Criar novo usuário");
-            Console.WriteLine("2 - Fazer Login na Conta");
-            Console.WriteLine("3 - Listar todas as contas registradas");
-            Console.WriteLine("4 - Quantia total armazenada no banco");
-            Console.WriteLine("0 - Para sair do programa");
-            Console.Write("Digite a opção desejada: ");
-        }*/
-
         static void ShowMenu()
         {
-            Console.WriteLine("1 - Inserir novo usuário");
-            Console.WriteLine("2 - Deletar um usuário");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("1 - Inserir um novo usuário");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("2 - Deletar Conta");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("3 - Listar todas as contas registradas");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("4 - Detalhes de um usuário");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.WriteLine("5 - Quantia total armazenada no banco");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("6 - Manipular a conta");
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("0 - Para sair do programa");
+            Console.ResetColor();
+
             Console.Write("Digite a opção desejada: ");
         }
         
@@ -37,9 +46,69 @@
             Console.Write("Digite a opção desejada: ");
         }
 
+        static void WriteTextFormatedAndColor(string txt, string color)
+        {
+            if (color == "Red" || color == "red")
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                Console.Write(String.Concat(Enumerable.Repeat("-", 15)));
+
+                Console.Write(txt);
+
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 15)));
+
+                Console.ResetColor();
+            }
+            else if (color == "Green" || color == "green")
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+
+                Console.WriteLine("");
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+
+                System.Console.WriteLine(txt);
+
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+                Console.WriteLine("");
+
+                Console.ResetColor();
+            }
+            else if (color == "BackGreen" || color == "backGreen")
+            {
+                Console.BackgroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = ConsoleColor.Black;
+
+                Console.WriteLine("");
+                Console.Write(String.Concat(Enumerable.Repeat("-", 15)));
+
+                System.Console.Write(txt);
+
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 15)));
+
+                Console.ResetColor();
+            }
+            else if (color == "Blue" || color == "blue")
+            {
+
+                Console.ForegroundColor = ConsoleColor.Blue;
+
+                Console.WriteLine("");
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+
+                System.Console.WriteLine(txt);
+
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+                Console.WriteLine("");
+
+                Console.ResetColor();
+            }
+        }
+
         static void RegistrarNovoUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
+            WriteTextFormatedAndColor("Não foi possivel deletar a conta: Conta não encontrada ou Senha Errada!", "Red");
             cpfs.Add(Console.ReadLine());
 
             Console.WriteLine("Digite o nome: ");
@@ -50,15 +119,15 @@
 
             saldos.Add(0);
 
-            Console.WriteLine("Usuário cadastrado!");
+            WriteTextFormatedAndColor("Usuário cadastrado com sucesso!", "Green");
         }
 
         static void DeletarUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
             string cpfParaDeletar = Console.ReadLine();
 
-            Console.WriteLine("Digite a SENHA para deletar a Conta: ");
+            Console.WriteLine("Digite a SENHA para Deletar a conta: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaDeletar = cpfs.FindIndex(d => d == cpfParaDeletar);
@@ -67,8 +136,7 @@
             {
                 if (indexParaDeletar == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel deletar a conta: Conta não encontrada ou Senha errada!");
+                    WriteTextFormatedAndColor("Não foi possivel deletar a conta: Conta não encontrada ou Senha Errada!", "Red");
                 }
                 else
                 {
@@ -78,14 +146,12 @@
                     titulares.RemoveAt(indexParaDeletar);
                     saldos.RemoveAt(indexParaDeletar);
     
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Conta deletada com sucesso!");
+                    WriteTextFormatedAndColor($"Conta do {titulares[indexParaDeletar]} deletada com sucesso!", "Green");
                 }
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel deletar a conta: Conta não encontrada ou Senha errada!");
+                WriteTextFormatedAndColor("Não foi possivel deletar a conta: Conta não encontrada ou Senha Errada!", "Red");
             }
         }
 
@@ -99,10 +165,10 @@
 
         static void ApresentarUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
             
-            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            Console.WriteLine("Digite a SENHA para ver detalhes da conta: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaApresentar = cpfs.FindIndex(d => d == cpfParaPesquisar);
@@ -111,9 +177,7 @@
             {
                 if (indexParaApresentar == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel apresentar sua conta!");
-                    Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
+                    WriteTextFormatedAndColor("Erro: Conta não encontrada ou Senha Errada!", "Red");
                 }
                 else
                 {
@@ -122,25 +186,23 @@
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel apresentar sua conta!");
-                Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
+                WriteTextFormatedAndColor("Erro: Conta não encontrada ou Senha Errada!", "Red");
             }
         }
 
         static void ApresentarSomaTotal(List<double> saldos)
         {
-            Console.WriteLine($"Total acumulado no banco: R${saldos.Sum()}");
+            Console.WriteLine($"Total acumulado no Banco: R${saldos.Sum()}");
 
             // saldos.Sum(); ou .Aggregate(0.0, (x, y) => x + y);
         }
         
         static void DepositoNaConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
             
-            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            Console.WriteLine("Digite a SENHA para Depositar na conta: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaDepositar = cpfs.FindIndex(d => d == cpfParaPesquisar);
@@ -149,32 +211,28 @@
             {
                 if (indexParaDepositar == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel realizar o deposito!");
-                    Console.WriteLine("MOTIVO: Conta não encontrada no Sistema ou Senha errada.");
+                    WriteTextFormatedAndColor("Não foi possivel realizar o Deposito: Conta não Encontrada ou Senha Errada!", "Red");
                 } 
                 else 
                 {
                     Console.WriteLine("Digite o valor do deposito: ");
                     double valorDeposito = saldos[indexParaDepositar] += double.Parse(Console.ReadLine());
 
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine($"Deposito de: R${valorDeposito} realizado com sucesso!");
+                    WriteTextFormatedAndColor($"Deposito de: R${valorDeposito} realizado com sucesso!", "Green");
                 }
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel realizar o deposito: Conta não Encontrada ou Senha errada!");
+                WriteTextFormatedAndColor("Não foi possivel realizar o Deposito: Conta não Encontrada ou Senha Errada!", "Red");
             }
         }
 
         static void SaqueNaConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
 
-            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            Console.WriteLine("Digite a SENHA para continuar: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaSaquar = cpfs.FindIndex(d => d == cpfParaPesquisar);
@@ -183,8 +241,7 @@
             {
                 if (indexParaSaquar == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel realizar o Saque: Conta não Encontrada ou Senha errada!");
+                    WriteTextFormatedAndColor("Não foi possivel realizar o Saque: Conta não Encontrada ou Senha Errada!", "Red");
                 }
                 else
                 {
@@ -193,12 +250,12 @@
 
                     Console.WriteLine("-----------------");
                     Console.WriteLine($"Saque de: R${valorDeSaque} realizado com sucesso!");
+                    Console.WriteLine($"Saldo Atual da conta: {saldos[indexParaSaquar]}");
                 }
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel realizar o Saque: Conta não Encontrada ou Senha errada!");
+                WriteTextFormatedAndColor("Não foi possivel realizar o Saque: Conta não Encontrada ou Senha Errada!", "Red");
             }
         }
 
@@ -207,7 +264,7 @@
             Console.WriteLine("Digite o seu CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
 
-            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            Console.WriteLine("Digite a SENHA para continuar: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaTransferir = cpfs.FindIndex(d => d == cpfParaPesquisar);
@@ -216,35 +273,31 @@
             {
                 if (indexParaTransferir == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel realizar a Tranferencia: Conta não Encontrada ou Senha errada!");
+                    WriteTextFormatedAndColor("Não foi possivel realizar a Transferência: Conta não Encontrada ou Senha Errada!", "Red");
                 }
                 else
                 {
-                    Console.WriteLine("Informe o CPF da conta que quer transferir: ");
+                    Console.WriteLine("Informe o CPF da conta de Transferência: ");
                     string cpfParaTranferir = Console.ReadLine();
 
                     int indexParaTransferirDinheiro = cpfs.FindIndex(d => d == cpfParaTranferir);
 
                     if (cpfs[indexParaTransferirDinheiro] == cpfParaTranferir) 
                     {
-                        Console.WriteLine("-----------------");
-                        Console.WriteLine($"Conta do {titulares[indexParaTransferirDinheiro]} encontrada! ");
+                        WriteTextFormatedAndColor($"Conta do {titulares[indexParaTransferirDinheiro]} encontrada! ", "Green");
 
-                        Console.Write($"Saldo da sua conta: R${saldos[indexParaTransferir]} | deseja transferir quanto para {titulares[indexParaTransferirDinheiro]}: ");
+                        WriteTextFormatedAndColor($"Saldo da sua conta: R${saldos[indexParaTransferir]} | deseja transferir quanto para {titulares[indexParaTransferirDinheiro]}: ", "Green");
                         double valorDeTransferencia= double.Parse(Console.ReadLine());
 
-                        if (valorDeTransferencia == 0)
+                        if (valorDeTransferencia < 1)
                         {
-                            Console.WriteLine("-----------------");
-                            Console.WriteLine("Transferencia indisponivel, insira um valor maior que R$ 1,00");
+                            WriteTextFormatedAndColor("Transferência indisponivel, insira um valor maior que R$ 1,00", "Red");
                         } else
                         {
                             saldos[indexParaTransferirDinheiro] += valorDeTransferencia;
                             saldos[indexParaTransferir] -= valorDeTransferencia;
 
-                            Console.WriteLine("-----------------");
-                            Console.WriteLine($"Transferencia de: R${valorDeTransferencia} realizado com sucesso para a conta {titulares[indexParaTransferirDinheiro]}!");
+                            WriteTextFormatedAndColor($"Transferência de: R${valorDeTransferencia} realizado com sucesso para a conta {titulares[indexParaTransferirDinheiro]}!", "Green");
                         }
                         
                     }     
@@ -252,17 +305,16 @@
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel realizar o Saque: Conta não Encontrada ou Senha errada!");
+                WriteTextFormatedAndColor("Não foi possivel realizar a Transferência: Conta não Encontrada ou Senha Errada!", "Red");
             }
         }
 
         static void SaldoTotalDaConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            Console.WriteLine("Digite o CPF: ");
+            Console.WriteLine("Digite o seu CPF: ");
             string cpfParaPesquisar = Console.ReadLine();
 
-            Console.WriteLine("Digite a SENHA para ver detalhes da Conta: ");
+            Console.WriteLine("Digite a SENHA para ver Saldo da Conta: ");
             string senhaParaPesquisar = Console.ReadLine();
 
             int indexParaPesquisar = cpfs.FindIndex(d => d == cpfParaPesquisar);
@@ -271,21 +323,28 @@
             {
                 if (indexParaPesquisar == -1)
                 {
-                    Console.WriteLine("-----------------");
-                    Console.WriteLine("Não foi possivel verificar Saldo: Conta não Encontrada ou Senha errada!");
+                    Console.WriteLine("");
+                    Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+                    Console.WriteLine("Não foi possivel verificar Saldo: Conta não Encontrada ou Senha Errada!");
+                    Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+                    Console.WriteLine("");
                 }
                 else
                 {
                     double totalSaldo = saldos[indexParaPesquisar];
 
-                    Console.WriteLine("-----------------");
+                    Console.WriteLine("");
+                    Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
                     Console.WriteLine($"Total de Saldo na sua conta: R${totalSaldo}");
+                    Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
                 }
             }
             else
             {
-                Console.WriteLine("-----------------");
-                Console.WriteLine("Não foi possivel verificar Saldo: Conta não Encontrada ou Senha errada!");
+                Console.WriteLine("");
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
+                Console.WriteLine("Não foi possivel verificar Saldo: Conta não Encontrada ou Senha Errada!");
+                Console.WriteLine(String.Concat(Enumerable.Repeat("-", 50)));
             }
         }
 
@@ -324,51 +383,17 @@
         static void ApresentaConta(int i, List<string> cpfs, List<string> titulares, List<double> saldos)
         {
             Console.WriteLine("-----------------");
-            Console.WriteLine($"CPF = {cpfs[i]} | Titular = {titulares[i]} | Saldo = R${saldos[i]:F2}");
+            Console.WriteLine($"CPF = {cpfs[i]} | TITULAR = {titulares[i]} | SALDO = R${saldos[i]:F2}");
         }
 
         public static void Main(string[] args)
         {
-
-            Console.WriteLine("Antes de começar a usar, vamos configurar alguns valores: ");
-
+            WriteTextFormatedAndColor("Bem Vindo ao Byte Bank o mais rápido e seguro!", "backGreen");
 
             List<string> cpfs = new List<string>();
             List<string> titulares = new List<string>();
             List<string> senhas = new List<string>();
             List<double> saldos = new List<double>();
-
-            // Ideia de implementação de tela de Login
-
-            /*int option2;
-
-            do
-            {
-                ShowMenuLogin();
-                option2 = int.Parse(Console.ReadLine());
-
-                Console.WriteLine("-----------------");
-
-                switch (option2)
-                {
-                    case 0:
-                        Console.WriteLine("Programa Encerrado!");
-                        break;
-                    case 1:
-                        RegistrarNovoUsuario(cpfs, titulares, senhas, saldos);
-                        break;
-                    case 2:
-                        // UsuarioRegistrado
-                        break;
-                    case 3:
-                        ListarTodasAsContas(cpfs, titulares, saldos);
-                        break;
-                    case 4:
-                        ApresentarSomaTotal(saldos);
-                        break;
-                }
-
-            } while (option2 != 0);*/
 
             int option;
 
@@ -377,12 +402,10 @@
                 ShowMenu();
                 option = int.Parse(Console.ReadLine());
 
-                Console.WriteLine("-----------------");
-
                 switch (option)
                 {
                     case 0:
-                        Console.WriteLine("Programa Encerrado!");
+                        WriteTextFormatedAndColor("Programa Encerrado!", "Red");
                         break;
                     case 1:
                         RegistrarNovoUsuario(cpfs, titulares, senhas, saldos);
@@ -403,8 +426,6 @@
                         ManipularConta(cpfs, titulares, senhas, saldos);
                         break;
                 }
-
-                Console.WriteLine("-----------------");
 
             } while (option != 0);
 

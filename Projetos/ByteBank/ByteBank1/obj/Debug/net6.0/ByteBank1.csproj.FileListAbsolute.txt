@@ -43,3 +43,18 @@ C:\Users\heber\Desktop\Cursos\Programação\Imã Learning\C#\GitHub\Projetos\Byt
 C:\Users\heber\Desktop\Cursos\Programação\Imã Learning\C#\GitHub\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
 C:\Users\heber\Desktop\Cursos\Programação\Imã Learning\C#\GitHub\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
 C:\Users\heber\Desktop\Cursos\Programação\Imã Learning\C#\GitHub\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Users\Hebert AB\Documents\web\Cursos\Sharp Coders - Imã Learning\Projetos\ByteBank\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll

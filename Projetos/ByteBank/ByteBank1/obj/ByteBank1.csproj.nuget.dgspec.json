@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heber\\Desktop\\Cursos\\Programação\\Imã Learning\\C#\\GitHub\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj": {}
+    "C:\\Users\\Hebert AB\\Documents\\web\\Cursos\\Sharp Coders - Imã Learning\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heber\\Desktop\\Cursos\\Programação\\Imã Learning\\C#\\GitHub\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj": {
+    "C:\\Users\\Hebert AB\\Documents\\web\\Cursos\\Sharp Coders - Imã Learning\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heber\\Desktop\\Cursos\\Programação\\Imã Learning\\C#\\GitHub\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj",
+        "projectUniqueName": "C:\\Users\\Hebert AB\\Documents\\web\\Cursos\\Sharp Coders - Imã Learning\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj",
         "projectName": "ByteBank1",
-        "projectPath": "C:\\Users\\heber\\Desktop\\Cursos\\Programação\\Imã Learning\\C#\\GitHub\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj",
-        "packagesPath": "C:\\Users\\heber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heber\\Desktop\\Cursos\\Programação\\Imã Learning\\C#\\GitHub\\Projetos\\ByteBank\\ByteBank1\\obj\\",
+        "projectPath": "C:\\Users\\Hebert AB\\Documents\\web\\Cursos\\Sharp Coders - Imã Learning\\Projetos\\ByteBank\\ByteBank1\\ByteBank1.csproj",
+        "packagesPath": "C:\\Users\\Hebert AB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hebert AB\\Documents\\web\\Cursos\\Sharp Coders - Imã Learning\\Projetos\\ByteBank\\ByteBank1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hebert AB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
