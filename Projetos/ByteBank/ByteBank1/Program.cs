@@ -378,6 +378,8 @@
         {
             WriteTextFormatedAndColor("Bem Vindo ao Byte Bank o mais rápido e seguro!", "background");
 
+
+
             List<string> cpfs = new List<string>();
             List<string> titulares = new List<string>();
             List<string> senhas = new List<string>();
