@@ -5,31 +5,13 @@
     {
         static void ShowMenu()
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("1 - Inserir um novo usuário");
-            Console.ResetColor();
-
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("2 - Deletar Conta");
-            Console.ResetColor();
-
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("3 - Listar todas as contas registradas");
-            Console.ResetColor();
-
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("4 - Detalhes de um usuário");
-            Console.ResetColor();
-
-            Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.WriteLine("5 - Quantia total armazenada no banco");
-            Console.ResetColor();
-
             Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("1 - Inserir um novo usuário");
+            Console.WriteLine("2 - Deletar Conta");
+            Console.WriteLine("3 - Listar todas as contas registradas");
+            Console.WriteLine("4 - Detalhes de um usuário");
+            Console.WriteLine("5 - Quantia total armazenada no banco");
             Console.WriteLine("6 - Manipular a conta");
-            Console.ResetColor();
-
-            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("0 - Para sair do programa");
             Console.ResetColor();
 
@@ -38,11 +20,15 @@
         
         static void ShowMenuManipularConta()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("");
             Console.WriteLine("1 - Depositar");
             Console.WriteLine("2 - Saquar");
             Console.WriteLine("3 - Transferir");
             Console.WriteLine("4 - Saldo Total");
             Console.WriteLine("0 - Voltar para Menu Principal");
+            Console.ResetColor();
+
             Console.Write("Digite a opção desejada: ");
         }
 
@@ -52,11 +38,13 @@
             {
                 Console.ForegroundColor = ConsoleColor.Red;
 
+                Console.WriteLine("");
                 Console.Write(String.Concat(Enumerable.Repeat("-", 15)));
 
                 Console.Write(txt);
 
                 Console.WriteLine(String.Concat(Enumerable.Repeat("-", 15)));
+                Console.WriteLine("");
 
                 Console.ResetColor();
             }
@@ -74,10 +62,10 @@
 
                 Console.ResetColor();
             }
-            else if (color == "BackGreen" || color == "backGreen")
+            else if (color == "Background" || color == "background")
             {
-                Console.BackgroundColor = ConsoleColor.Green;
-                Console.ForegroundColor = ConsoleColor.Black;
+                Console.BackgroundColor = ConsoleColor.DarkCyan;
+                Console.ForegroundColor = ConsoleColor.White;
 
                 Console.WriteLine("");
                 Console.Write(String.Concat(Enumerable.Repeat("-", 15)));
@@ -85,6 +73,7 @@
                 System.Console.Write(txt);
 
                 Console.WriteLine(String.Concat(Enumerable.Repeat("-", 15)));
+                Console.WriteLine("");
 
                 Console.ResetColor();
             }
@@ -107,8 +96,8 @@
 
         static void RegistrarNovoUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
+            Console.WriteLine("");
             Console.WriteLine("Digite o seu CPF: ");
-            WriteTextFormatedAndColor("Não foi possivel deletar a conta: Conta não encontrada ou Senha Errada!", "Red");
             cpfs.Add(Console.ReadLine());
 
             Console.WriteLine("Digite o nome: ");
@@ -192,7 +181,7 @@
 
         static void ApresentarSomaTotal(List<double> saldos)
         {
-            Console.WriteLine($"Total acumulado no Banco: R${saldos.Sum()}");
+            WriteTextFormatedAndColor($"Total acumulado no Banco: R${saldos.Sum()} ", "background");
 
             // saldos.Sum(); ou .Aggregate(0.0, (x, y) => x + y);
         }
@@ -382,13 +371,12 @@
     
         static void ApresentaConta(int i, List<string> cpfs, List<string> titulares, List<double> saldos)
         {
-            Console.WriteLine("-----------------");
-            Console.WriteLine($"CPF = {cpfs[i]} | TITULAR = {titulares[i]} | SALDO = R${saldos[i]:F2}");
+            WriteTextFormatedAndColor($"CPF = {cpfs[i]} | TITULAR = {titulares[i]} | SALDO = R${saldos[i]:F2}", "green");
         }
 
         public static void Main(string[] args)
         {
-            WriteTextFormatedAndColor("Bem Vindo ao Byte Bank o mais rápido e seguro!", "backGreen");
+            WriteTextFormatedAndColor("Bem Vindo ao Byte Bank o mais rápido e seguro!", "background");
 
             List<string> cpfs = new List<string>();
             List<string> titulares = new List<string>();
