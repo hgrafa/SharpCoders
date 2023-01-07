@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0040: Adicionar modificadores de acessibilidade
+dotnet_style_require_accessibility_modifiers = always
