@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\bin\Debug\net6.0\Static.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\bin\Debug\net6.0\Static.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\bin\Debug\net6.0\Static.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\bin\Debug\net6.0\Static.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Static\Static\obj\Debug\net6.0\ref\Static.dll
