@@ -120,3 +120,32 @@ public static void dizerOi(string nome){
     Telefone = telefoneEntrada;
   }
 ```
+
+<!-- ```cs
+
+public class Calculadora {
+
+  public static double Erro {get; set;};
+  private static double _buffer = 0;
+
+  public static double Buffer {
+    get {
+      return _buffer;
+    }
+  }
+
+  public static double Somar(double a, double b) {
+    double soma = a + b;
+    _buffer += soma + erro;
+    return soma;
+  }
+
+}
+```
+
+```cs
+Calculadora.Erro = -3;
+Calculadora.Somar(2, 3);
+Calculadora.Somar(2, 3);
+Console.WriteLine(Calculadora.Buffer);
+``` -->
