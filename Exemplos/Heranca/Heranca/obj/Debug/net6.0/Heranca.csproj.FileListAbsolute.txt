@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\bin\Debug\net6.0\Heranca.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\bin\Debug\net6.0\Heranca.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\bin\Debug\net6.0\Heranca.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\bin\Debug\net6.0\Heranca.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\refint\Heranca.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\Heranca\Heranca\obj\Debug\net6.0\ref\Heranca.dll
