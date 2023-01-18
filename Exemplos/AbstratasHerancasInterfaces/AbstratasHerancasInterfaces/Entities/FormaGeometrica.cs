@@ -2,7 +2,7 @@
 
 namespace AbstratasHerancasInterfaces.Entities;
 
-public class FormaGeometrica {
+public abstract class FormaGeometrica {
 
     public double Espessura { get; set; }
     public Cor Cor { get; set; }
@@ -16,11 +16,11 @@ public class FormaGeometrica {
         Cor = cor;
     }
 
-    public double Perimetro() {
+    public virtual double Perimetro() {
         return -1;
     }
 
-    public double Area() {
+    public virtual double Area() {
         return -1;
     }
 
