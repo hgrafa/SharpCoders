@@ -7,10 +7,12 @@ public class Program {
 
     public static void Main(string[] args) {
 
-        // upcasting
-        FormaGeometrica f = new Circulo(3, 1.2, Cor.CINZA);
+        // upcasting se mantém com classes abstratas
+        FormaGeometrica c = new Circulo(3, 1.2, Cor.CINZA);
+        FormaGeometrica t = new Triangulo(3, 4, 5, 1.5, Cor.AZUL);
 
-        Console.WriteLine(f.Area());
+        Console.WriteLine(c.Area());
+        Console.WriteLine(t.Area());
 
     }
 
