@@ -1,0 +1,8 @@
+{
+	"nome" : "Joao da Silva",
+	"pontuacoes" : {
+		"jogo da velha" : 20,
+		"xadrez" : 10
+	},
+	senha: "abc123"
+}
