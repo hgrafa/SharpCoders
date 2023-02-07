@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up Website</title>
+  <style>
+    * {
+      background-color: #302442;
+      color: #d2bee0;
+      font-size: 1.1em;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-field{
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  
+  <main>
+    <h1> titulo ! </h1>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, voluptas esse laborum minima, consequuntur aperiam quod quas sint tenetur tempora non vero ex id, dicta amet libero? Delectus, dicta sit.
+    </p>
+  </main>
+
+  <form>
+    <div id="user-form-field" class="form-field">
+      <label for="user-field">Usuário</label>
+      <input type="text" name="user-field" id="user" placeholder="seu user aqui!" required>
+    </div>
+    <div id="about-form-field" class="form-field">
+      <label for="about-field">Sobre você</label>
+      <textarea name="about-field">Fale um pouco mais sobre você. </textarea>
+    </div>
+    <div id="state-form-field" class="form-field">
+      <label for="state-field">Seu Estado</label>
+      <select name = "state-field">
+        <option>RJ</option>
+        <option>SP</option>
+        <option>MG</option>
+        <option>BH</option>
+        <option>ES</option>
+      </select>
+    </div>
+    <div id="seniority-form-field" class="form-field">
+      <label for="seniority-field">Você é dev senior?</label>
+
+      <input type="radio" class="radio-option" name="seniority-field" value="yes" >
+      <label for="seniority-field">Sim (Uso foto de anime do Linkedin)</label>
+      
+      <input type="radio" class="radio-option" name="seniority-field" value="No">
+      <label for="seniority-field">Não</label>
+    </div>
+
+    <div id="technologies-form-field" class="form-field">
+      <label for="technologies-field">Quais tecnologias você conhece? </label>
+
+      <input type="checkbox" class="checkbox-option" name="tech-field" value="Cpp" >
+      <label for="tech-field">C++</label>
+
+      <input type="checkbox" class="checkbox-option" name="tech-field" value="Cpp" >
+      <label for="tech-field">Java</label>
+      <input type="checkbox" class="checkbox-option" name="tech-field" value="Cpp" >
+      <label for="tech-field">Javascript</label>
+      <input type="checkbox" class="checkbox-option" name="tech-field" value="Cpp" >
+      <label for="tech-field">C#</label>
+      <input type="checkbox" class="checkbox-option" name="tech-field" value="Cpp" >
+      <label for="tech-field">Python</label>
+    </div>
+  </form>
+  <hr>
+</body>
+</html>
