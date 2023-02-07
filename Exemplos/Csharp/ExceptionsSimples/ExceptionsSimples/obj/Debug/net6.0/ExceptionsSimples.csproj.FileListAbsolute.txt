@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\bin\Debug\net6.0\ExceptionsSimples.exe
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\bin\Debug\net6.0\ExceptionsSimples.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\bin\Debug\net6.0\ExceptionsSimples.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\bin\Debug\net6.0\ExceptionsSimples.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\bin\Debug\net6.0\ExceptionsSimples.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\refint\ExceptionsSimples.dll
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.pdb
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ExceptionsSimples.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exemplos\ExceptionsSimples\ExceptionsSimples\obj\Debug\net6.0\ref\ExceptionsSimples.dll
