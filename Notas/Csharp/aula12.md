@@ -108,9 +108,3 @@ public class Circulo : FormaGeometrica {
 
 }
 ```
-
-## virtual vs. abstract
-
-## sealed
-
-Podemos selar um método para que as classes filhas não o sobreescrevam mais.
