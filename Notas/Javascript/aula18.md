@@ -170,6 +170,22 @@ then: Então
 
 ```js
 const input = document.querySelector("input");
+const timeOut = 5000;
 
-input.
+input.onkeypress = () => {
+  console.log("pressionei uma tecla");
+};
+
+// assincrono
+setTimout(() => {
+  console.log("terminou aqui no assincrono");
+  input.value = "";
+}, timeOut);
+```
+
+```
+setTimout(): configura um tempo de espera
+clearTimout()
+setInterval(): configura um tempo de repetição
+clearInterval()
 ```
