@@ -1,0 +1,7 @@
+.image {
+  width: 5rem;
+}
+
+.content :only-child {
+  margin-left: 10px;
+}
