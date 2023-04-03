@@ -1,6 +1,7 @@
 drafts/**
 .vscode/**
 **/node modules/**
+
 # Logs
 logs
 *.log
