@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.favicon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-weight: bold;
+  font-size: 1.75rem;
+}
+
+.nav {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav a {
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--gray-100);
+
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+}
+
+.nav a:hover {
+  border-bottom: 3px solid var(--purple-500);
+}
+
+.nav a.active {
+  color: var(--purple-500);
+}
